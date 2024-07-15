@@ -43,7 +43,7 @@ A test application of an Image Gallery with basic operation
 Clone the project
 
 ```bash
-  git clone https://github.com/xanderbilla/ImageGallery
+  git clone https://github.com/Tanmaya4/ImageGallery
 ```
 
 Go to the project directory
@@ -67,5 +67,5 @@ Start the server
 
 ## Authors
 
-- [@xanderbilla](https://www.github.com/xanderbilla)
+- [@Tanmaya4](https://www.github.com/Tanmaya4)
 
